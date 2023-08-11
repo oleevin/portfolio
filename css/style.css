@@ -860,6 +860,21 @@ header
 
 
 /* Responsive  */
+@media (max-width: 1400px) {
+   html {
+      font-size: 55%;
+   }
+ 
+   .home-left{
+ 
+      padding-top: -120px;
+      padding-bottom: 150px;
+   }
+}
+
+
+
+
 
 @media (max-width: 1200px) {
    html {
