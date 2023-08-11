@@ -860,7 +860,7 @@ header
 
 
 /* Responsive  */
-@media (max-width: 1400px) {
+@media (max-width: 1700px) {
    html {
       font-size: 55%;
    }
@@ -868,7 +868,7 @@ header
    .home-left{
  
       padding-top: -120px;
-      padding-bottom: 150px;
+      padding-bottom: 90px;
    }
 }
 
